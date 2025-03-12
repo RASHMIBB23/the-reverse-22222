@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+
+  reverse-proxy:
+
+
+
+
+weather-report:
+
+
+temperature-service:
+
+
+precip_service:
+ 
